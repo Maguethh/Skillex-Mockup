@@ -1,4 +1,4 @@
-# Integration Challenge: Project Name
+# Integration Challenge: Skillex
 
 ## Description
 This project is part of a series of challenges where I integrate online design mockups into fully functional web pages within a specified time frame. The goal is to demonstrate proficiency in HTML, CSS, and JavaScript by accurately translating visual designs into responsive and interactive web interfaces.
