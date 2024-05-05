@@ -1,19 +1,26 @@
-# Projet Personnel d'Entraînement - Série de Maquettes
+# Integration Challenge: Project Name
 
-Ce projet personnel est une partie d'une série de projets sur lesquels je travaille pour m'entraîner et améliorer mes compétences en conception web et développement. L'objectif principal de cette série est de créer des pages web à partir de maquettes librement accessibles, disponibles sur des sites tels que Figma, Dribbble, etc.
+## Description
+This project is part of a series of challenges where I integrate online design mockups into fully functional web pages within a specified time frame. The goal is to demonstrate proficiency in HTML, CSS, and JavaScript by accurately translating visual designs into responsive and interactive web interfaces.
 
-## Concept
+## Challenge Details
+- **Project Name:** Skillex Online Education
+- **Time Frame:** 1 hour
+- **Design Mockup:** https://dribbble.com/shots/17015850-Skillex-Online-Education
 
-Le concept de ce projet est simple : je choisis une maquette qui m'inspire parmi celles disponibles gratuitement sur des plateformes de conception comme Figma, Dribbble, ou d'autres. Ensuite, je me fixe un délai imparti pour transformer cette maquette en une page web fonctionnelle. Le délai peut varier en fonction de la complexité de la maquette, allant de 30 minutes à 2 heures.
+## Features
+- Responsive layout design compatible with various screen sizes and devices.
+- Pixel-perfect implementation of the design mockup using HTML and CSS.
+- Integration of interactive elements and animations using JavaScript.
+- Cross-browser compatibility and optimization for performance.
 
-## Crédits
+## Usage
+1. Clone this repository to your local machine.
+2. Navigate to the project directory.
+3. Open the `index.html` file in your web browser to view the integrated design mockup.
 
-Toutes les maquettes originales utilisées dans ce projet sont créditées aux concepteurs respectifs. Vous pouvez retrouver les maquettes d'origine ainsi que d'autres travaux sur mon portfolio en ligne.
+## Contributing
+Feedback and suggestions for improvement are welcome. Feel free to open an issue or submit a pull request.
 
----
-
-*Note : Les maquettes originales sont utilisées uniquement à des fins d'entraînement et d'apprentissage, et ne sont pas destinées à un usage commercial.*
-
----
-
-N'hésitez pas à explorer les différents projets de cette série pour voir comment j'ai abordé différentes maquettes et délais. Si vous avez des questions ou des commentaires, n'hésitez pas à me contacter. Merci de suivre mon parcours d'apprentissage !
+## Note
+This project is part of a series of integration challenges aimed at honing web development skills. Your support and feedback are appreciated.
